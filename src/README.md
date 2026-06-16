@@ -93,7 +93,7 @@ Once documents are **Indexed** (approved), any authorized user can open the Chat
 ### Prerequisites
 - A running LLM server (Ollama, vLLM, LM Studio, or any OpenAI-compatible endpoint) — must support Arabic
 - An embedding model endpoint (for semantic search)
-- The Mawthiq application deployed via the Base44 platform
+- The Mawthiq application deployed on your infrastructure
 
 ### Quick Start (5 Minutes)
 
@@ -249,4 +249,4 @@ Built for Saudi enterprise and government use. All rights reserved.
 
 ---
 
-**Built with Base44** | Designed for SDAIA & PDPL Compliance | Arabic-First, Sovereign-Ready
+**Mawthiq** | Designed for SDAIA & PDPL Compliance | Arabic-First, Sovereign-Ready
